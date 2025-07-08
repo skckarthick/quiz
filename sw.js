@@ -17,6 +17,7 @@ const urlsToCache = [
     '/questions/domain1.json',
     '/questions/domain2.json',
     '/questions/domain3.json',
+    '/questions/gaca.json',
     'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap'
 ];
 
