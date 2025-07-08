@@ -8,7 +8,8 @@ const ALL_SECTIONS = [
     "current_affairs",
     "domain1",
     "domain2",
-    "domain3"
+    "domain3",
+    "gaca"
 ];
 
 let masterTimer;
@@ -500,8 +501,10 @@ function getSectionDisplayName(sectionKey) {
         domain1: 'Domain 1',
         domain2: 'Domain 2',
         domain3: 'Domain 3',
+        gaca: 'Gen Awareness Current Affairs',
         all_mixed: 'All Mixed',
         timed_mock: 'Timed Mock'
+        
     };
     return sectionNames[sectionKey] || sectionKey.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
 }
