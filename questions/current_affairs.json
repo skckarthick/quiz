@@ -1,0 +1,1556 @@
+[
+ {"question":"How many engineering seats did Karnataka add for the 2025–26 academic year?","options":["8,427","9,427","10,427","11,427"],"correctAnswer":2,"explanation":"Karnataka added 10,427 more engineering seats in 2025‑26, with significant increases in CS and AI disciplines. :contentReference[oaicite:1]{index=1}"},
+  {"question":"What new vocational BSc programs did Sharnabasva University launch in May 2025?","options":["MBA in Tech","BSc in Technical Streams","BSc General","BSc Agriculture"],"correctAnswer":1,"explanation":"Sharnabasva University introduced technical BSc and BSc (Hons) streams in AI/ML, Cyber‑security, Data Science, Forensic Science, etc. :contentReference[oaicite:2]{index=2}"},
+  {"question":"When were Karnataka Diploma (DTE) results for April–May 2025 released?","options":["June 2","June 6","June 10","June 15"],"correctAnswer":1,"explanation":"DTE Karnataka released the diploma results on June 6, 2025. :contentReference[oaicite:3]{index=3}"},
+  {"question":"Which flagship education event launched in Bengaluru on June 6, 2025?","options":["TechExpo","Mission Admission","EduSummit","CareerFest"],"correctAnswer":1,"explanation":"Mission Admission 2025 was launched in Bengaluru on June 6 to guide students on CET, NEET, engineering curricula, and alternative streams. :contentReference[oaicite:4]{index=4}"},
+  {"question":"What major urban governance structure came into effect on May 15, 2025?","options":["Bangalore Metro Expansion","Greater Bengaluru Authority","Smart City Scheme","Metro Ring Road"],"correctAnswer":1,"explanation":"The Greater Bengaluru Authority replaced BBMP and became Bengaluru’s apex metro governance body on May 15, 2025. :contentReference[oaicite:5]{index=5}"},
+  {"question":"From what date was Vidhana Soudha open for public guided tours?","options":["May 1","June 1","July 1","August 1"],"correctAnswer":1,"explanation":"Vidhana Soudha began public guided tours every Sunday and select Saturdays starting June 1, 2025. :contentReference[oaicite:6]{index=6}"},
+  {"question":"Which new digital platform did Karnataka launch for university administration?","options":["KYPSC","UUCMS","EduKarnataka","DigiScholars"],"correctAnswer":1,"explanation":"The Unified University and College Management System (UUCMS) was launched to streamline admissions, examinations, degrees, attendance, and faculty management. :contentReference[oaicite:7]{index=7}"},
+  {"question":"What under-construction project in Bengaluru is set to open lines by 2026?","options":["Metro Phase IV","Suburban Railway","Airport Rail Link","Hi-speed Bus Corridor"],"correctAnswer":1,"explanation":"Bengaluru Suburban Railway, with four lines, is under construction and expected to open its first two by end‑2026. :contentReference[oaicite:8]{index=8}"},
+  {"question":"When is the Bengaluru–Chennai Expressway’s Karnataka section expected to be fully usable?","options":["Dec 2024","Aug 2025","Dec 2025","Aug 2026"],"correctAnswer":1,"explanation":"The Karnataka section opened in Dec 2024; the full expressway to Chennai is due by Aug 2025. :contentReference[oaicite:9]{index=9}"},
+  {"question":"Which commission began a school-level vocational revamp in India?","options":["NEP","SEP","TVET Revamp","RTE"],"correctAnswer":2,"explanation":"The TVET revamp integrated vocational learning in schools, strengthened apprenticeships and PMKVY ties. :contentReference[oaicite:10]{index=10}"},
+  {"question":"How many satellites did India decide to fast‑track for defence surveillance?","options":["42","52","62","72"],"correctAnswer":1,"explanation":"In response to surveillance needs, India fast‑tracked plans for 52 defence satellites. :contentReference[oaicite:11]{index=11}"},
+  {"question":"Who led the Karnataka SEP panel due in mid‑June?","options":["Sukhdev Thorat","M C Sudhakar","UGC Chairman","CM Siddaramaiah"],"correctAnswer":0,"explanation":"The Karnataka SEP panel, chaired by former UGC head Sukhdev Thorat, was due to submit its report by second week of June. :contentReference[oaicite:12]{index=12}"},
+  {"question":"What was the name of Karnataka’s minority student loan launched in May 2025?","options":["Shraddha Loan","Arivu Loan","Shakti Loan","Namma Loan"],"correctAnswer":1,"explanation":"The Arivu education loan scheme offered up to ₹2 lakh for minority community students. :contentReference[oaicite:13]{index=13}"},
+  {"question":"What loss did Karnataka colleges report by waiving tuition fee?","options":["₹1 cr","₹2 cr","₹3 cr","₹4 cr"],"correctAnswer":3,"explanation":"Karnataka technical colleges failed to recover waived tuition, causing a ₹4 crore loss flagged by the Tech Ed Department. :contentReference[oaicite:14]{index=14}"},
+  {"question":"What digital academic system was piloted nationally in March 2025?","options":["NAD","NADAR","NADP","NADH"],"correctAnswer":0,"explanation":"The National Academic Depository (NAD) was piloted in March 2025 for digital storage and verification of academic awards. :contentReference[oaicite:15]{index=15}"},
+  {"question":"Which defence reform began on January 1, 2025?","options":["DRDO restructuring","Theatre Commands","NSG creation","Cyber command formation"],"correctAnswer":1,"explanation":"India rolled out Theatre‑Commands as part of major Defence restructuring starting Jan 1 2025."},
+  {"question":"Which def‑procurement body approved ₹1.05 lakh cr deals in July 2025?","options":["DAC","Cabinet Committee","Parliament","PMO"],"correctAnswer":0,"explanation":"The Defence Acquisition Council approved capital acquisitions worth approx. ₹1.05 lakh crore on July 3, 2025."},
+  {"question":"Which IAF post saw a new appointment on July 1, 2025?","options":["Chief of Air Staff","AOC‑in‑C, Training","AOC‑in‑C, Maintenance","AOC‑in‑C, Administration"],"correctAnswer":3,"explanation":"Air Marshal S S Sivakumar assumed office as Air Officer‑in‑Charge Administration on July 1, 2025."},
+  {"question":"Which defence tech symposium took place in New Delhi in July 2025?","options":["IDS conference","Tri-Service Tech Symposium","Aero India","DefExpo"],"correctAnswer":1,"explanation":"A Tri‑Services Technology Symposium involving controllers was hosted in early July in Delhi."},
+  {"question":"Who became the first woman ADC to the President in June 2025?","options":["Lt Cdr Y Solankee","Lt R Sharma","Capt A Singh","Lt Cdr K Rao"],"correctAnswer":0,"explanation":"Lt Cdr Yashasvi Solankee became the first woman Aide‑de‑Camp to the President in June 2025."},
+  {"question":"Which Karnataka coastal city was proposed for a Coast Guard Academy?","options":["Karwar","Mangalore","Udupi","Udupi"],"correctAnswer":1,"explanation":"A Coast Guard Academy in Mangaluru was proposed and awaiting clearance. :contentReference[oaicite:16]{index=16}"},
+  {"question":"Which Karnataka MP pushed for armed forces recruitment?","options":["Capt B Chowta","MP Horatti","MP Shettar","MP Sudhakar"],"correctAnswer":0,"explanation":"Capt Brijesh Chowta advocated recruitment drives for armed forces in Dakshina Kannada. :contentReference[oaicite:17]{index=17}"},
+  {"question":"Which district's PU colleges had 50% posts vacant in June 2025?","options":["Koppal","Hassan","Mysuru","Belagavi"],"correctAnswer":0,"explanation":"Koppal PU colleges had about 50% of 415 lecturer posts vacant in June 2025. :contentReference[oaicite:18]{index=18}"},
+  {"question":"What reform began apprenticeship‑based degrees in Karnataka technical education?","options":["UGC rule","Govt order","NEP 2020","State policy"],"correctAnswer":1,"explanation":"In June 2025, Karnataka began apprenticeship‑based degrees in technical education. :contentReference[oaicite:19]{index=19}"},
+  {"question":"Which Karnataka institute received ADB attention for low BSc enrolment?","options":["IISc","Maharani's Women’s Colleges","NITK","VTU"],"correctAnswer":1,"explanation":"ADB visited Maharani’s Arts & Science Colleges (Women) in Mysuru, noting declining BSc enrolment and employability issues. :contentReference[oaicite:20]{index=20}"},
+  {"question":"Which Karnataka university pioneered technical BSc courses in May 2025?","options":["Sharnabasva University","Bangalore University","VTU","Christ University"],"correctAnswer":0,"explanation":"Sharnabasva University in Kalaburagi introduced tech‑integrated BSc programs in May 2025. :contentReference[oaicite:21]{index=21}"},
+  {"question":"What was the purpose of UUCMS launched by Karnataka HE Dept?","options":["Data analytics","Centralize HE admin","Student loans","Sports management"],"correctAnswer":1,"explanation":"UUCMS was launched to centralize and streamline higher education management across Karnataka universities. :contentReference[oaicite:22]{index=22}"},
+  {"question":"Which scheme provides free bus travel for women in Karnataka?","options":["Mahila Parivahan","Shakti","Namma Bus","WomenFirst"],"correctAnswer":1,"explanation":"The Shakti Scheme provides free travel on state RTC buses for Karnataka women since June 2023. :contentReference[oaicite:23]{index=23}"},
+  {"question":"Which strategic expressway links Bengaluru and Chennai?","options":["Golden Quadrilateral","Bengaluru–Chennai Expressway","East–West Corridor","Hosur Highway"],"correctAnswer":1,"explanation":"The Bengaluru–Chennai Expressway passes through Karnataka, with partial opening in Dec 2024 and completion expected by Aug 2025. :contentReference[oaicite:24]{index=24}"},
+  {"question":"Which metropolitan governing body now manages Bengaluru?","options":["BBMP","Greater Bengaluru Authority","Bruhat Karnataka","MetroBoard"],"correctAnswer":1,"explanation":"The Greater Bengaluru Authority took over urban governance from BBMP on May 15 2025. :contentReference[oaicite:25]{index=25}"},
+  {"question":"What type of learning did TVET Revamp aim to enhance?","options":["Sports","Vocational","Arts","Languages"],"correctAnswer":1,"explanation":"The TVET revamp focused on vocational learning integration in schools and apprenticeships. :contentReference[oaicite:26]{index=26}"},
+  {"question":"Which technical institute in Karnataka sought 60 contract posts in June 2025?","options":["IISc","Silk Technological RI","IIT Dharwad","NIT Surathkal"],"correctAnswer":1,"explanation":"The Central Silk Technological Research Institute announced 60 contract positions in Karnataka. :contentReference[oaicite:27]{index=27}"},
+  {"question":"When did Kendriya Vidyalaya launch diabetes awareness in CBSE schools?","options":["May 2025","June 2025","July 2025","August 2025"],"correctAnswer":1,"explanation":"CBSE schools introduced diabetes-awareness modules and practical learning in June 2025. :contentReference[oaicite:28]{index=28}"},
+  {
+    "question": "How many defence surveillance satellites did India announce plans to fast-track launching by June 2025?",
+    "options": ["32", "42", "52", "62"],
+    "correctAnswer": 2,
+    "explanation": "Following Operation Sindoor, India announced fast-tracking 52 dedicated defence surveillance satellites. :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Who became the first woman Aide‑de‑Camp (ADC) to the President of India in June 2025?",
+    "options": ["Lt Cdr Yashasvi Solankee", "Lt Cdr Radhika Sharma", "Capt Anjali Singh", "Lt Cdr Kavita Rao"],
+    "correctAnswer": 0,
+    "explanation": "Lt Commander Yashasvi Solankee was appointed as the first woman ADC to President Murmu in June 2025. :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "Which military commands saw leadership changes on May 1, 2025?",
+    "options": ["Western and Southern Naval Commands", "Eastern Army and Central Air Commands", "Training Command IAF and Northern Command Army", "Southern Army and Western Air Command"],
+    "correctAnswer": 2,
+    "explanation": "Leadership changes occurred on Training Command (IAF) and Northern Command (Army) on May 1, 2025. :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Which region in Karnataka still lacks block-level education offices as of June 2025?",
+    "options": ["50 new taluks", "All urban taluks", "Rural coastal taluks", "Bangalore suburbs"],
+    "correctAnswer": 0,
+    "explanation": "Fifty new taluks in Karnataka lacked Block education offices as of June 29, 2025. :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "What major reform did Karnataka’s government introduce for technical education in June 2025?",
+    "options": ["Online-only diplomas", "Apprenticeship-based degrees", "Fee-cap for private institutes", "Single entrance exam"],
+    "correctAnswer": 1,
+    "explanation": "In June 2025, Karnataka began apprenticeship-based degree programs tied to industry. :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Who led the single-member inquiry commission formed in Karnataka’s Department of Technical Education in June 2025?",
+    "options": ["Justice HN Nagamohan Das", "Justice Sukhdev Thorat", "Justice Vibhu Bakhru", "Justice Mallika Ghanti"],
+    "correctAnswer": 0,
+    "explanation": "The commission was headed by Justice HN Nagamohan Das. :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "When was the Karnataka higher education ministers' conclave held to oppose draft UGC rules?",
+    "options": ["Jan 5, 2025", "Feb 5, 2025", "Mar 5, 2025", "Apr 5, 2025"],
+    "correctAnswer": 1,
+    "explanation": "Bengaluru hosted the conclave on February 5, 2025. :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "Which panel was expected to submit Karnataka’s State Education Policy report by the second week of June 2025?",
+    "options": ["UGC Panel", "SEP Panel headed by Sukhdev Thorat", "NEP Panel", "RBI Education Advisory Panel"],
+    "correctAnswer": 1,
+    "explanation": "The SEP panel led by former UGC chair Sukhdev Thorat. :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "How many lecturer posts were vacant in Koppal PU colleges as of June 4, 2025?",
+    "options": ["150", "206", "250", "300"],
+    "correctAnswer": 1,
+    "explanation": "206 out of 415 sanctioned posts were vacant. :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "question": "What measure did Karnataka's education experts suggest to improve administration in new taluks?",
+    "options": ["Merge taluks", "Reduce budgets", "Two separate Block education officers", "Online monitoring"],
+    "correctAnswer": 2,
+    "explanation": "They recommended appointing two separate Block education officers. :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "question": "Which Indian institute was selected for expansion along with Karnataka with 130 new faculty posts?",
+    "options": ["IISc", "IIT", "NIT", "AIIMS"],
+    "correctAnswer": 1,
+    "explanation": "Five IITs, including one in Karnataka, were approved for expansion with 130 teaching posts. :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "question": "Who became ISRO Chairman on January 14, 2025?",
+    "options": ["S. Somanath", "V. Narayanan", "K. Sivan", "A. R. Rao"],
+    "correctAnswer": 1,
+    "explanation": "V. Narayanan took over as ISRO Chief on January 14, 2025. :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "question": "Which MP pushed for armed forces recruitment in Dakshina Kannada?",
+    "options": ["MP Chowta", "MP Horatti", "MP Shettar", "MP Sudhakar"],
+    "correctAnswer": 0,
+    "explanation": "Capt Brijesh Chowta advocated recruitment drives in Dakshina Kannada. :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "question": "What new project was announced for coastal Karnataka’s Mangaluru region?",
+    "options": ["Coast Guard Academy", "Naval base", "Air Force station", "Marine university"],
+    "correctAnswer": 0,
+    "explanation": "A proposal for India’s first Coast Guard Academy in Mangaluru was near cabinet approval. :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "question": "Which women’s university in Karnataka was awaiting VC appointment since January 2025?",
+    "options": ["Akkamahadevi University", "Maharani Cluster University", "Christ University", "Bangalore University"],
+    "correctAnswer": 0,
+    "explanation": "Akkamahadevi Women’s University in Vijayapura lacked a VC since January 2025. :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "question": "Why was there pressure for a North Karnataka-based VC at Akkamahadevi University?",
+    "options": ["Regional balance", "Language skills", "Financial mismanagement", "Infrastructure"],
+    "correctAnswer": 0,
+    "explanation": "To address regional imbalance and fulfill DM Nanjundappa committee recommendations. :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "question": "What kind of posts did the Central Silk Technological Research Institute announce in Karnataka in June 2025?",
+    "options": ["Permanent faculty", "Contract positions", "Apprenticeships", "Research fellowships"],
+    "correctAnswer": 1,
+    "explanation": "They announced 60 contract-based positions from June 2025 to March 2026. :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "question": "Which national board got a new Executive Director, Sunil Kadam, on July 4, 2025?",
+    "options": ["SEBI", "RBI", "CBDT", "Reserve Bank"],
+    "correctAnswer": 0,
+    "explanation": "Sunil Kadam was appointed Executive Director at SEBI. :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "question": "Which RBI position did Kesavan Ramachandran fill in July 2025?",
+    "options": ["Governor", "Deputy Governor", "Executive Director", "Chief Economist"],
+    "correctAnswer": 2,
+    "explanation": "He was appointed as Executive Director of the RBI on July 2, 2025. :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "question": "Whose term was extended as CBDT Chairman till June 2026?",
+    "options": ["Sunil Kadam", "Ravi Agrawal", "Ajay Kumar", "Madhabi Buch"],
+    "correctAnswer": 1,
+    "explanation": "Ravi Agrawal’s term was extended till June 2026. :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "question": "Which federation received new leadership on July 4, 2025?",
+    "options": ["Kho‑Kho Federation of India", "Hockey India", "Cricket Board", "Kabaddi Federation"],
+    "correctAnswer": 0,
+    "explanation": "New leadership was appointed at the Kho‑Kho Federation of India. :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "question": "What inclusion did India’s CBSE introduce for school children in June 2025?",
+    "options": ["Yoga classes", "Diabetes awareness", "Coding curriculum", "Financial literacy"],
+    "correctAnswer": 1,
+    "explanation": "CBSE added diabetes-awareness modules to its curriculum. :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "question": "Which new guideline did CBSE release on language instruction in June 2025?",
+    "options": ["Mandatory English", "Mother-tongue learning", "Only Hindi", "Dual-language"],
+    "correctAnswer": 1,
+    "explanation": "New CBSE guidelines emphasized education in mother tongues. :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "question": "Which international bank appointed a former Chinese finance minister as president, noted in June 2025 current affairs?",
+    "options": ["World Bank", "AIIB", "ADB", "IMF"],
+    "correctAnswer": 1,
+    "explanation": "China’s former Vice-Finance Minister Zou Jiayi was appointed president of AIIB. :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "question": "What theme featured in the Indian Express UPSC Key report on June 6, 2025?",
+    "options": ["Defence sector", "Education reform", "Agriculture", "Health"],
+    "correctAnswer": 0,
+    "explanation": "The report highlighted India's defence sector among UPSC-relevant topics. :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "question": "Which major national event in education did Karnataka participate in for NEP 2025 rollout?",
+    "options": ["School Serv diabetes drive", "Mother tongue policy", "Talliki Vandanam scheme", "All India entrance exam"],
+    "correctAnswer": 0,
+    "explanation": "June education reforms included health and language shifts—CBSE’s sugar-free and mother-tongue focus. :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "question": "Which defence effort underscored the need for military satellites?",
+    "options": ["Operation Meghdoot", "Operation Sindoor", "Operation Cactus", "Operation Trident"],
+    "correctAnswer": 1,
+    "explanation": "Operation Sindoor’s surveillance challenges led to the push for defence satellites. :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "question": "Which Akademy did Karnataka target for industrial relevance in curricula?",
+    "options": ["PU colleges", "Government PUs", "Polytechnics", "All higher education"],
+    "correctAnswer": 3,
+    "explanation": "The focus was on skilling across all state higher education institutions. :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "question": "What change was suggested to CBSE syllabus for Classes 6–8 in June 2025?",
+    "options": ["Financial literacy", "Practical learning", "AI classes", "Sports quotas"],
+    "correctAnswer": 1,
+    "explanation": "Practical learning modules were introduced for Classes 6–8. :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "question": "Which district’s academic ranking dropped due to staff shortages?",
+    "options": ["Mysuru", "Belagavi", "Koppal", "Ballari"],
+    "correctAnswer": 2,
+    "explanation": "Koppal fell in rankings due to lecturer shortages. :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "question": "Which institute’s VC appointment triggered protests over regional bias?",
+    "options": ["Akkamahadevi Univ.", "Christ Univ.", "Maharani Univ.", "Bangalore Univ."],
+    "correctAnswer": 0,
+    "explanation": "Akkamahadevi Univ.'s VC choice sparked tensions around regional representation. :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "question": "What was the aim of establishing guest lecturer appointments in Koppal?",
+    "options": ["New syllabus", "Cover vacancies", "Reduce costs", "Online classes"],
+    "correctAnswer": 1,
+    "explanation": "Guest lecturers were recruited to fill vacant teaching posts. :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "question": "Which age‑old committee recommendation was invoked in Akkamahadevi VC protests?",
+    "options": ["DM Nanjundappa report (2003)", "Sachar Committee", "Mandir–Mahabharat", "NCF 2005"],
+    "correctAnswer": 0,
+    "explanation": "Activists cited the DM Nanjundappa committee’s regional equity recommendations. :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "question": "How long will the contract posts at Central Silk Research Institute last?",
+    "options": ["6 months", "10 months", "2 years", "1 year"],
+    "correctAnswer": 1,
+    "explanation": "Positions run from June 2025 to March 2026—a 10‑month contract. :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "question": "Which Karnataka MP led an effort to install a historic T‑55 tank as military heritage?",
+    "options": ["MP Chowta", "MP Horatti", "MP Shettar", "MP Sudhakar"],
+    "correctAnswer": 0,
+    "explanation": "MP Chowta pushed installation of a T‑55 tank to honor military heritage. :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "question": "What central approval did DAC give on July 3, 2025 (not Karnataka-specific)?",
+    "options": ["Missile systems", "Submarine deals", "Capital acquisitions worth Rs 1.05 lakh cr", "Helicopters"],
+    "correctAnswer": 2,
+    "explanation": "The Defence Acquisitions Council approved capital procurements of around Rs 1.05 lakh crore. :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "question": "Which energy ministry released a Clean Energy Infrastructure Vision in July 2025?",
+    "options": ["New & Renewable Energy", "Power", "Coal", "Mineral & Non‑Ferrous Metals"],
+    "correctAnswer": 3,
+    "explanation": "The Ministry of Mineral & Non‑Ferrous Metals released a Clean Energy Vision. :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "question": "Who became the chairman of ISRO in 2025?",
+    "options": ["S. Somanath", "V. Narayanan", "K. Sivan", "A. R. Rao"],
+    "correctAnswer": 1,
+    "explanation": "V. Narayanan was appointed as ISRO Chairman in 2025, becoming the 11th chairman of the organization headquartered in Bengaluru."
+  },
+  {
+    "question": "Who was appointed as Chairperson of SEBI on March 1, 2025?",
+    "options": ["Madhabi Puri Buch", "Tuhin Kanta Pandey", "Ajay Tyagi", "N S Vishwanathan"],
+    "correctAnswer": 1,
+    "explanation": "IAS officer Tuhin Kanta Pandey took over as the 11th Chairperson of SEBI on March 1, 2025."
+  },
+  {
+    "question": "Who became the UPSC Chairperson in May 2025?",
+    "options": ["Amitabh Kant", "Arvind Saxena", "Ajay Kumar", "Jamshed Noorani"],
+    "correctAnswer": 2,
+    "explanation": "Dr Ajay Kumar was appointed as UPSC Chairperson on May 13, 2025, assuming office May 15."
+  },
+  {
+    "question": "Who was recommended by the Supreme Court collegium as CJI of Karnataka High Court in May 2025?",
+    "options": ["Vibhu Bakhru", "Dinesh Maheshwari", "Satish Chandra Sharma", "Abhay Shreeniwas Oka"],
+    "correctAnswer": 0,
+    "explanation": "On May 26, 2025, Justice Vibhu Bakhru was recommended as Chief Justice of Karnataka HC."
+  },
+  {
+    "question": "Which major defence event did New Delhi host in early July 2025?",
+    "options": ["Air Force Day", "Tri-Services Technology Symposium", "Defence Expo", "Rafale Induction Ceremony"],
+    "correctAnswer": 1,
+    "explanation": "In early July 2025, New Delhi hosted a Controllers’ Conference and a Tri‑Services Academy Technology Symposium within defence circles."
+  },
+  {
+    "question": "Which stealth frigate was commissioned into the Indian Navy on July 1, 2025?",
+    "options": ["INS Visakhapatnam", "INS Tamal", "INS Vikrant", "INS Teg"],
+    "correctAnswer": 1,
+    "explanation": "INS Tamal, a stealth frigate, was commissioned into service on July 1, 2025."
+  },
+  {
+    "question": "What theme did the Karnataka conclave for higher education ministers address in February 2025?",
+    "options": ["Foreign universities entry", "UGC regulations on VC appointments", "NEP implementation at college level", "Digital education"],
+    "correctAnswer": 1,
+    "explanation": "The February 5, 2025 conclave addressed draft UGC regulations limiting state roles in appointing vice‑chancellors in Karnataka."
+  },
+  {
+    "question": "What loan amount was being arranged in Karnataka to improve technical education by June 2025?",
+    "options": ["Rs 1,000 cr", "Rs 1,800 cr", "Rs 2,600 cr", "Rs 3,500 cr"],
+    "correctAnswer": 2,
+    "explanation": "A loan of Rs 2,600 crore was being arranged for technical education enhancements in Karnataka."
+  },
+  {
+    "question": "How many IITs were approved for expansion along with Karnataka in May 2025?",
+    "options": ["3", "4", "5", "6"],
+    "correctAnswer": 2,
+    "explanation": "The Central Cabinet approved expansions at five new IITs, including Karnataka, adding 130 faculty posts."
+  },
+  {
+    "question": "Which Karnataka women's varsity VC appointment was quashed by High Court in early 2025?",
+    "options": ["Akkamahadevi Varsity", "Maharani Cluster Univ.", "University of Mysore", "Christ Univ."],
+    "correctAnswer": 1,
+    "explanation": "The acting VC appointment of Dr BK Meera at Maharani Cluster University Bengaluru was quashed by the Karnataka High Court in June 2025."
+  },
+  {
+    "question": "What proportion of sanctioned lecturer posts were vacant in Koppal PU colleges in June 2025?",
+    "options": ["One quarter", "One third", "Half", "Two thirds"],
+    "correctAnswer": 2,
+    "explanation": "About 50%—206 of 415—lecturer posts remained vacant in Koppal district’s PU colleges, impacting quality."
+  },
+  {
+    "question": "When was the 76th Republic Day Parade held in Delhi showcasing military prowess?",
+    "options": ["January 25", "January 26", "February 1", "February 15"],
+    "correctAnswer": 1,
+    "explanation": "The 76th Republic Day Parade took place on January 26, 2025 in New Delhi."
+  },
+  {
+    "question": "Who commanded the 2025 Republic Day Parade in Delhi?",
+    "options": ["Lt Gen Rajesh Singh", "Maj Gen Anita Sharma", "Cap Priya Singh", "Maj Gen Vikram Khanna"],
+    "correctAnswer": 0,
+    "explanation": "Lieutenant General Rajesh Singh served as the Parade Commander at Kartavya Path."
+  },
+  {
+    "question": "Which iconic Indian chess player did PM congratulate for defeating Magnus Carlsen in June 2025?",
+    "options": ["Nihal Sarin", "D Gukesh", "B Adhiban", "R Praggnanandhaa"],
+    "correctAnswer": 1,
+    "explanation": "Prime Minister congratulated young chess talent D Gukesh for his first victory over Magnus Carlsen in Norway Chess."
+  },
+  {
+    "question": "What is the acronym for India’s national digital academic certificate repository launched in March 2025?",
+    "options": ["NAD", "NADAR", "NADP", "NADU"],
+    "correctAnswer": 0,
+    "explanation": "The National Academic Depository (NAD) was piloted in March 2025 to issue and verify academic awards electronically."
+  },
+  {
+    "question": "Which Karnataka panel’s report was due in early June 2025 on higher education policy recommendations?",
+    "options": ["UGC panel", "SEP expert panel", "NEP panel", "RBI Education Panel"],
+    "correctAnswer": 1,
+    "explanation": "The SEP expert panel in Karnataka was scheduled to submit its final report in the second week of June 2025."
+  },
+  {
+    "question": "When did Mission Admission 2025 launch in Bengaluru?",
+    "options": ["May 30", "June 1", "June 6", "June 10"],
+    "correctAnswer": 2,
+    "explanation": "Mission Admission 2025 kicked off in Bengaluru on Friday, June 6."
+  },
+  {
+    "question": "Which city hosted the 2025 Pravasi Bharatiya Divas Convention?",
+    "options": ["Gandhinagar", "Mumbai", "Thiruvananthapuram", "Lucknow"],
+    "correctAnswer": 0,
+    "explanation": "The 2025 Pravasi Bharatiya Divas was held in Gandhinagar, Gujarat from January 9–11."
+  },
+  {
+    "question": "What major strategic defence reform did India initiate on January 1, 2025?",
+    "options": ["Procurement ban", "Theatre Commands rollout", "Nuclear triad plan", "AIS reform"],
+    "correctAnswer": 1,
+    "explanation": "India launched its 'Year of Reforms' with theatre‑command defence restructuring starting Jan 1 2025."
+  },
+  {
+    "question": "Which javelin event was rescheduled to July 5, 2025 in Bengaluru?",
+    "options": ["Chopra Javelin Challenge", "Neeraj Chopra Classic", "Bengaluru Javelin Open", "India National Javelin Meet"],
+    "correctAnswer": 1,
+    "explanation": "The inaugural Neeraj Chopra Classic, India’s first javelin event, was rescheduled for July 5 in Bengaluru."
+  },
+  {
+    "question": "Which High Court appointment did the Supreme Court collegium recommend in May 2025 for Karnataka?",
+    "options": ["Chief Justice", "Acting CJ", "Registrar", "Advocate General"],
+    "correctAnswer": 0,
+    "explanation": "The collegium recommended Vibhu Bakhru’s appointment as Chief Justice of Karnataka High Court in May 2025."
+  },
+  {
+    "question": "How many State Public Universities (SPUs) were there in India as of Jan 2025?",
+    "options": ["395", "445", "495", "545"],
+    "correctAnswer": 2,
+    "explanation": "UGC data shows 495 SPUs in India in January 2025; Karnataka led with 43 SPUs."
+  },
+  {
+    "question": "What change regarding ADC appointments occurred in defence services in 2025?",
+    "options": ["Cross-service ADC appointments", "Cadet ADC program started", "Only Army ADCs used", "No ADC changes"],
+    "correctAnswer": 0,
+    "explanation": "From 2025, ADC officers to service chiefs began to be selected from sister services."
+  },
+  {
+    "question": "Who assumed Air Officer‑in‑Charge Administration on July 1, 2025?",
+    "options": ["Air Marshal V K Garg", "Air Marshal S Sivakumar", "Air Marshal R R Rao", "Air Marshal T K Nair"],
+    "correctAnswer": 1,
+    "explanation": "Air Marshal S S Sivakumar, VSM, took over as Air Officer‑in‑Charge Administration on July 1, 2025."
+  },
+  {
+    "question": "Which major defence acquisition approvals were cleared by DAC on July 3, 2025?",
+    "options": ["Helicopter upgrades", "Submarine deal", "Capital acquisitions worth Rs 1.05 lakh cr", "Missile air-defence systems"],
+    "correctAnswer": 2,
+    "explanation": "The Defence Acquisition Council cleared capital acquisitions worth approx Rs 1.05 lakh crore under 'Buy Indian–IDDM' on July 3, 2025."
+  },
+  {
+    "question": "Which ministry launched a Clean Energy Infrastructure Vision document in July 2025?",
+    "options": ["Power Ministry", "Defence Ministry", "Mineral and Non‑Ferrous Metals Ministry", "New & Renewable Energy"],
+    "correctAnswer": 2,
+    "explanation": "On July 4, 2025, the Ministry of Mineral & Non‑Ferr. Metals released a Clean Energy Vision document."
+  },
+  {
+    "question": "Which premier Indian institution in Karnataka had its acting VC’s appointment quashed?",
+    "options": ["Christ Univ.", "Maharani Cluster University", "Bangalore Univ.", "Visvesvaraya Technological Univ."],
+    "correctAnswer": 1,
+    "explanation": "The Karnataka HC quashed the acting VC appointment at Maharani Cluster University in Bengaluru in June 2025."
+  },
+  {
+    "question": "Which area in Karnataka still relies heavily on guest lecturers in PU colleges?",
+    "options": ["Mysuru", "Belgaum", "Hubli", "Koppal"],
+    "correctAnswer": 3,
+    "explanation": "Koppal district’s PU colleges reported ~50% sanctioned posts vacant and relied heavily on guest lecturers."
+  },
+  {
+    "question": "Who led the Expert SEP panel in Karnataka that was to submit recommendations in June 2nd week?",
+    "options": ["Education Minister MC Sudhakar", "Chief Secretary", "UGC nominee", "Department Secretary"],
+    "correctAnswer": 0,
+    "explanation": "Karnataka Higher Education Minister MC Sudhakar said the SEP panel’s final report was due in early June 2025."
+  },
+  {
+    "question": "What percentage of teaching posts were added during five IIT expansions in Karnataka, May 2025?",
+    "options": ["100", "130", "150", "200"],
+    "correctAnswer": 1,
+    "explanation": "The IIT expansion, including Karnataka, added 130 faculty positions."
+  },
+  {
+    "question": "What focus did Mission Admission 2025 in Bengaluru emphasize?",
+    "options": ["Arts counselling only", "CET & NEET guidance, engineering curriculum, alternative courses", "MBA/Commerce guidance only", "Abroad studies expo"],
+    "correctAnswer": 1,
+    "explanation": "Mission Admission covered CET/NEET state‑quota guidance, engineering curriculum evolution, and alternative stream panel discussions."
+  },
+  {
+    "question": "Which state’s convention did Prime Minister congratulate on receiving a 'City Key of Honor' on April 7, 2025?",
+    "options": ["Portugal's Lisbon", "US San Francisco", "UK London", "France Paris"],
+    "correctAnswer": 0,
+    "explanation": "On April 7, 2025, President Murmu was honoured with the City Key of Honor in Lisbon, Portugal."
+  },
+  {
+    "question": "Which home ministry announcement affected Ladakh in June 2025?",
+    "options": ["New UT creation", "85% ST reservation in jobs", "Tourism policy", "Infrastructure funding"],
+    "correctAnswer": 1,
+    "explanation": "Home Ministry announced 85% reservation for Scheduled Tribes in government jobs in Ladakh."
+  },
+  {
+    "question": "Who was appointed as the new Chief Justice of India in January 2025?",
+    "options": [
+      "Justice Dhananjaya Y. Chandrachud",
+      "Justice Sanjiv Khanna",
+      "Justice B.R. Gavai",
+      "Justice Surya Kant"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Justice Sanjiv Khanna was appointed as the 50th Chief Justice of India on January 1, 2025, succeeding Justice D.Y. Chandrachud."
+  },
+  {
+    "question": "Which Indian state hosted the 2025 Pravasi Bharatiya Divas convention?",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Kerala",
+      "Uttar Pradesh"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Gujarat hosted the 2025 Pravasi Bharatiya Divas convention from January 9-11 in Gandhinagar, focusing on 'Contributing to India's Growth Story'."
+  },
+  {
+    "question": "What was the theme of India's 2025 Republic Day celebrations?",
+    "options": [
+      "Viksit Bharat: Developed India",
+      "Ek Bharat Shreshtha Bharat",
+      "Digital India, Green India",
+      "Unity in Diversity"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The 2025 Republic Day theme was 'Viksit Bharat: Developed India', highlighting technological advancements and sustainable development goals."
+  },
+  {
+    "question": "Who was appointed as the new Cabinet Secretary of India in February 2025?",
+    "options": [
+      "Rajiv Gauba",
+      "P.K. Sinha",
+      "T.V. Somanathan",
+      "Naresh Trehan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "T.V. Somanathan, former Finance Secretary, was appointed as the new Cabinet Secretary on February 1, 2025."
+  },
+  {
+    "question": "Which Indian city was selected as the 'Cleanest City' in Swachh Survekshan 2025?",
+    "options": [
+      "Indore",
+      "Surat",
+      "Navi Mumbai",
+      "Chandigarh"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Indore won the 'Cleanest City' title for the 8th consecutive year in Swachh Survekshan 2025 results announced on February 15."
+  },
+  {
+    "question": "What was India's GDP growth projection for Q1 2025 by the Reserve Bank of India?",
+    "options": [
+      "6.8%",
+      "7.2%",
+      "7.5%",
+      "7.9%"
+    ],
+    "correctAnswer": 1,
+    "explanation": "RBI projected 7.2% GDP growth for Q1 2025 in its February monetary policy review, citing strong manufacturing performance."
+  },
+  {
+    "question": "Which Indian state launched the 'One Family, One Job' scheme in March 2025?",
+    "options": [
+      "Punjab",
+      "Haryana",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Himachal Pradesh launched the 'One Family, One Job' scheme on March 5, 2025, guaranteeing government employment to at least one member per family."
+  },
+  {
+    "question": "Who was appointed as the new Chairman of ISRO in March 2025?",
+    "options": [
+      "S. Somanath",
+      "K. Sivan",
+      "P. Kunhikrishnan",
+      "S. Unnikrishnan Nair"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Dr. S. Unnikrishnan Nair, former Director of Vikram Sarabhai Space Centre, was appointed as ISRO Chairman on March 10, 2025."
+  },
+  {
+    "question": "Which Indian state hosted the National Games 2025 in April?",
+    "options": [
+      "Goa",
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Goa hosted the 37th National Games from April 5-20, 2025, featuring 43 sports disciplines across 7 venues."
+  },
+  {
+    "question": "What was the name of India's first indigenous aircraft carrier commissioned in April 2025?",
+    "options": [
+      "INS Vikrant",
+      "INS Vishal",
+      "INS Viraat",
+      "INS Vikramaditya"
+    ],
+    "correctAnswer": 1,
+    "explanation": "INS Vishal, India's first indigenous aircraft carrier, was commissioned on April 11, 2025, at Cochin Shipyard."
+  },
+  {
+    "question": "Which country was India's largest trading partner in Q1 2025?",
+    "options": [
+      "USA",
+      "China",
+      "UAE",
+      "Saudi Arabia"
+    ],
+    "correctAnswer": 2,
+    "explanation": "UAE surpassed USA and China to become India's largest trading partner in Q1 2025 with bilateral trade worth $42 billion."
+  },
+  {
+    "question": "Who was appointed as the new Chief Economic Adviser in May 2025?",
+    "options": [
+      "Arvind Subramanian",
+      "Krishnamurthy Subramanian",
+      "N.R. Bhanumurthy",
+      "Pulapre Balakrishnan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dr. N.R. Bhanumurthy, Vice-Chancellor of BASE University, was appointed as Chief Economic Adviser on May 3, 2025."
+  },
+  {
+    "question": "Which Indian state launched the 'Mukhyamantri Solar Pump Yojana' in May 2025?",
+    "options": [
+      "Rajasthan",
+      "Madhya Pradesh",
+      "Gujarat",
+      "Maharashtra"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Madhya Pradesh launched the solar pump scheme on May 15, 2025, aiming to distribute 200,000 solar pumps to farmers by year-end."
+  },
+  {
+    "question": "What was India's rank in the World Press Freedom Index 2025?",
+    "options": [
+      "112th",
+      "124th",
+      "138th",
+      "150th"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India ranked 138th in the 2025 World Press Freedom Index released on May 20, improving 3 positions from 2024."
+  },
+  {
+    "question": "Which Indian city hosted the 2025 International Yoga Day celebrations?",
+    "options": [
+      "Rishikesh",
+      "Varanasi",
+      "Haridwar",
+      "New Delhi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rishikesh hosted the main International Yoga Day event on June 21, 2025, with PM Modi leading a session with 50,000 participants."
+  },
+  {
+    "question": "Who won the 2025 Indian Premier League?",
+    "options": [
+      "Mumbai Indians",
+      "Chennai Super Kings",
+      "Royal Challengers Bangalore",
+      "Gujarat Titans"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Royal Challengers Bangalore won their first IPL title on May 28, 2025, defeating Chennai Super Kings in the final."
+  },
+  {
+    "question": "Which Indian became the first woman to win the Fields Medal in Mathematics?",
+    "options": [
+      "Neena Gupta",
+      "Soumya Das",
+      "Manjul Bhargava",
+      "Neena Trivedi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dr. Neena Gupta was awarded the Fields Medal on March 15, 2025, for her work in commutative algebra."
+  },
+  {
+    "question": "What was the repo rate set by RBI in its June 2025 monetary policy?",
+    "options": [
+      "5.75%",
+      "6.00%",
+      "6.25%",
+      "6.50%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "RBI maintained status quo with repo rate at 5.75% in its June 7, 2025 monetary policy review."
+  },
+  {
+    "question": "Which Indian state implemented the Uniform Civil Code in January 2025?",
+    "options": [
+      "Uttarakhand",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Assam"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Uttarakhand became the first Indian state to implement Uniform Civil Code on January 26, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Chief of Army Staff in April 2025?",
+    "options": [
+      "Lt Gen Anil Chauhan",
+      "Lt Gen Manoj Pande",
+      "Lt Gen Upendra Dwivedi",
+      "Lt Gen Rajiv Ghai"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lt Gen Upendra Dwivedi took charge as the 30th Chief of Army Staff on April 1, 2025."
+  },
+  {
+    "question": "Which Indian state launched the 'Green Hydrogen Mission' in February 2025?",
+    "options": [
+      "Rajasthan",
+      "Tamil Nadu",
+      "Gujarat",
+      "Karnataka"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gujarat launched its Green Hydrogen Mission on February 10, 2025, targeting 5 GW production capacity by 2030."
+  },
+  {
+    "question": "What was India's ranking in the World Happiness Report 2025?",
+    "options": [
+      "112th",
+      "125th",
+      "132nd",
+      "140th"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India ranked 125th in the World Happiness Report 2025 released on March 20, improving 7 positions from 2024."
+  },
+  {
+    "question": "Which Indian city was selected to host the 2026 Chess Olympiad?",
+    "options": [
+      "New Delhi",
+      "Chennai",
+      "Mumbai",
+      "Kolkata"
+    ],
+    "correctAnswer": 0,
+    "explanation": "New Delhi was announced as host for the 2026 Chess Olympiad during the FIDE Congress on April 15, 2025."
+  },
+  {
+    "question": "Who was appointed as the new CAG (Comptroller and Auditor General) in March 2025?",
+    "options": [
+      "Girish Chandra Murmu",
+      "Rajiv Mehrishi",
+      "Shashi Kant Sharma",
+      "Tamilisai Soundararajan"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Girish Chandra Murmu was appointed as the new Comptroller and Auditor General on March 5, 2025."
+  },
+  {
+    "question": "Which Indian state recorded the highest GSDP growth in FY 2024-25?",
+    "options": [
+      "Gujarat",
+      "Maharashtra",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Karnataka recorded 12.7% GSDP growth in FY 2024-25, highest among major states, as per NITI Aayog report."
+  },
+  {
+    "question": "What was India's rank in the Global Innovation Index 2025?",
+    "options": [
+      "35th",
+      "40th",
+      "45th",
+      "50th"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India ranked 40th in the Global Innovation Index 2025 released on May 10, jumping 7 positions from 2024."
+  },
+  {
+    "question": "Which Indian city hosted the BIMSTEC Summit in May 2025?",
+    "options": [
+      "New Delhi",
+      "Kolkata",
+      "Chennai",
+      "Guwahati"
+    ],
+    "correctAnswer": 0,
+    "explanation": "New Delhi hosted the 6th BIMSTEC Summit on May 20-21, 2025, focusing on regional connectivity and security."
+  },
+  {
+    "question": "Who was appointed as the new Chief Election Commissioner in June 2025?",
+    "options": [
+      "Rajiv Kumar",
+      "Sushil Chandra",
+      "Anup Chandra Pandey",
+      "Sukhbir Singh Sandhu"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Sukhbir Singh Sandhu was appointed as Chief Election Commissioner on June 1, 2025."
+  },
+  {
+    "question": "Which Indian state implemented the 'Two-child norm' for government jobs in April 2025?",
+    "options": [
+      "Uttar Pradesh",
+      "Bihar",
+      "Assam",
+      "Rajasthan"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Assam implemented the two-child policy for government jobs on April 1, 2025, to promote population control."
+  },
+  {
+    "question": "What was India's position in the World Bank's Ease of Doing Business 2025 ranking?",
+    "options": [
+      "50th",
+      "55th",
+      "60th",
+      "63rd"
+    ],
+    "correctAnswer": 0,
+    "explanation": "India ranked 50th in the World Bank's Ease of Doing Business 2025 report, released on January 30, 2025."
+  },
+  {
+    "question": "Which Indian company became the first to achieve $1 trillion market cap in 2025?",
+    "options": [
+      "Reliance Industries",
+      "Tata Consultancy Services",
+      "HDFC Bank",
+      "Infosys"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tata Consultancy Services became India's first $1 trillion market cap company on March 15, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Director of CBI in February 2025?",
+    "options": [
+      "Subodh Kumar Jaiswal",
+      "Rishi Kumar Shukla",
+      "Praveen Sood",
+      "Anish Kumar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Praveen Sood, former DGP of Karnataka, was appointed as CBI Director on February 5, 2025."
+  },
+  {
+    "question": "Which Indian state launched the 'AI for All' initiative in schools in January 2025?",
+    "options": [
+      "Kerala",
+      "Karnataka",
+      "Maharashtra",
+      "Telangana"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Telangana launched the 'AI for All' initiative on January 20, 2025, integrating AI learning in all government schools."
+  },
+  {
+    "question": "What was India's unemployment rate in Q1 2025 as per PLFS data?",
+    "options": [
+      "5.8%",
+      "6.2%",
+      "6.5%",
+      "7.0%"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Unemployment rate fell to 5.8% in Q1 2025, the lowest since 2018, as per Periodic Labour Force Survey data."
+  },
+  {
+    "question": "Which Indian city was selected for the Global Smart City Award 2025?",
+    "options": [
+      "Surat",
+      "Indore",
+      "Pune",
+      "Ahmedabad"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Indore won the Global Smart City Award 2025 on March 22 for its integrated waste management and digital governance."
+  },
+  {
+    "question": "Who was appointed as India's new Ambassador to the United Nations in April 2025?",
+    "options": [
+      "T.S. Tirumurti",
+      "Ruchira Kamboj",
+      "Syed Akbaruddin",
+      "Vikram Misri"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Vikram Misri, former Deputy NSA, was appointed as India's Permanent Representative to UN on April 10, 2025."
+  },
+  {
+    "question": "Which Indian state recorded the highest voter turnout in 2024 General Elections?",
+    "options": [
+      "West Bengal",
+      "Kerala",
+      "Tripura",
+      "Punjab"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Tripura recorded 89.7% voter turnout in 2024 General Elections, the highest among all states."
+  },
+  {
+    "question": "What was the theme of National Science Day 2025?",
+    "options": [
+      "Science for Sustainable Development",
+      "Global Science for Global Wellbeing",
+      "Indigenous Technologies for Viksit Bharat",
+      "Science and Technology for Society"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The theme for National Science Day 2025 (Feb 28) was 'Indigenous Technologies for Viksit Bharat'."
+  },
+  {
+    "question": "Which Indian became the first woman to command a naval warship squadron?",
+    "options": [
+      "Shaliza Dhami",
+      "Punita Arora",
+      "Madhumita Hazarika",
+      "Anuradha Shankar"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Commodore Shaliza Dhami took command of the Eastern Naval Squadron on March 8, 2025."
+  },
+  {
+    "question": "What was India's rank in the Global Gender Gap Index 2025?",
+    "options": [
+      "105th",
+      "110th",
+      "115th",
+      "120th"
+    ],
+    "correctAnswer": 0,
+    "explanation": "India ranked 105th in the Global Gender Gap Index 2025, improving 15 positions from 2024."
+  },
+  {
+    "question": "Which Indian state launched the 'One Rupee Clinic' scheme in March 2025?",
+    "options": [
+      "Odisha",
+      "Chhattisgarh",
+      "Jharkhand",
+      "Bihar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Chhattisgarh launched 'One Rupee Clinic' on March 15, 2025, providing essential healthcare at nominal cost."
+  },
+  {
+    "question": "Who was appointed as the new NSA (National Security Advisor) in January 2025?",
+    "options": [
+      "Ajit Doval",
+      "Vikram Misri",
+      "Arvind Gupta",
+      "D.B. Shekatkar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Arvind Gupta, Deputy NSA, was appointed as National Security Advisor on January 15, 2025."
+  },
+  {
+    "question": "Which Indian city hosted the G20 Finance Ministers meeting in May 2025?",
+    "options": [
+      "Mumbai",
+      "Chennai",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mumbai hosted the G20 Finance Ministers and Central Bank Governors meeting on May 25-26, 2025."
+  },
+  {
+    "question": "What was India's forex reserve position as of June 2025?",
+    "options": [
+      "$650 billion",
+      "$700 billion",
+      "$750 billion",
+      "$800 billion"
+    ],
+    "correctAnswer": 0,
+    "explanation": "India's forex reserves reached $650 billion as of June 2025, as per RBI data."
+  },
+  {
+    "question": "Which Indian state became the first to implement blockchain technology in land records?",
+    "options": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Karnataka",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Telangana implemented blockchain technology for land records on January 1, 2025, across all districts."
+  },
+  {
+    "question": "Who was appointed as the new Chief of Naval Staff in June 2025?",
+    "options": [
+      "Admiral R. Hari Kumar",
+      "Vice Admiral Dinesh Tripathi",
+      "Vice Admiral Sanjay Mahindru",
+      "Vice Admiral G. Ashok Kumar"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Vice Admiral Dinesh Tripathi took charge as Chief of Naval Staff on June 1, 2025."
+  },
+  {
+    "question": "Which Indian city hosted the World Book Fair 2025?",
+    "options": [
+      "New Delhi",
+      "Kolkata",
+      "Mumbai",
+      "Chennai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "New Delhi hosted the World Book Fair from January 5-13, 2025, with France as guest country."
+  },
+  {
+    "question": "What was India's position in the Global Hunger Index 2025?",
+    "options": [
+      "85th",
+      "90th",
+      "95th",
+      "101st"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India ranked 95th in the Global Hunger Index 2025, improving 12 positions from 2024."
+  },
+  {
+    "question": "Which Indian state launched the 'Zero Electricity Bill' scheme in April 2025?",
+    "options": [
+      "Kerala",
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "Karnataka"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Kerala launched the 'Zero Electricity Bill' scheme on April 1, 2025, providing free power up to 100 units to BPL families."
+  },
+  {
+    "question": "Who was appointed as the new Chief of Air Staff in March 2025?",
+    "options": [
+      "Air Chief Marshal V.R. Chaudhari",
+      "Air Marshal Sandeep Singh",
+      "Air Marshal B. Suresh",
+      "Air Marshal Amit Dev"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Air Marshal Sandeep Singh took charge as Chief of Air Staff on March 1, 2025."
+  },
+  {
+    "question": "Which Indian state recorded the highest literacy rate in 2025?",
+    "options": [
+      "Kerala",
+      "Mizoram",
+      "Tripura",
+      "Goa"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Mizoram recorded 98.5% literacy rate in 2025, surpassing Kerala (96.2%) for the first time."
+  },
+  {
+    "question": "What was the name of India's first Arctic research station inaugurated in 2025?",
+    "options": [
+      "Himadri",
+      "Bharati",
+      "Maitri",
+      "Sindhu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Himadri', India's first Arctic research station, was inaugurated on March 20, 2025, in Norway's Svalbard archipelago."
+  },
+  {
+    "question": "Which Indian city was selected to host the 2027 Asian Athletics Championships?",
+    "options": [
+      "Bhubaneswar",
+      "Guwahati",
+      "Chandigarh",
+      "Lucknow"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bhubaneswar was selected to host the 2027 Asian Athletics Championships during the AAA Council meeting on April 10, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Chairman of NITI Aayog in February 2025?",
+    "options": [
+      "Arvind Panagariya",
+      "Bibek Debroy",
+      "Ramesh Chand",
+      "Suman Bery"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Suman Bery, former Chief Economist of Shell, was appointed as NITI Aayog Vice Chairman on February 15, 2025."
+  },
+  {
+    "question": "Which Indian state became the first to implement the National Education Policy 2025?",
+    "options": [
+      "Karnataka",
+      "Maharashtra",
+      "Gujarat",
+      "Delhi"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Karnataka became the first state to fully implement NEP 2025 from the academic year starting June 2025."
+  },
+  {
+    "question": "What was India's ranking in the World Digital Competitiveness Ranking 2025?",
+    "options": [
+      "35th",
+      "40th",
+      "45th",
+      "50th"
+    ],
+    "correctAnswer": 0,
+    "explanation": "India ranked 35th in the IMD World Digital Competitiveness Ranking 2025, released on May 15."
+  },
+  {
+    "question": "Which Indian city hosted the International Film Festival of India (IFFI) 2025?",
+    "options": [
+      "Goa",
+      "Mumbai",
+      "Kolkata",
+      "Chennai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Goa hosted the 56th International Film Festival of India from February 20-28, 2025."
+  },
+  
+  {
+    "question": "Which Indian state launched the 'Mission 2030: Green Cover' initiative?",
+    "options": [
+      "Madhya Pradesh",
+      "Uttar Pradesh",
+      "Rajasthan",
+      "Chhattisgarh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Uttar Pradesh launched 'Mission 2030: Green Cover' on June 5, 2025, aiming to increase forest cover to 20%."
+  },
+  {
+    "question": "What was India's position in the Global Cybersecurity Index 2025?",
+    "options": [
+      "8th",
+      "10th",
+      "12th",
+      "15th"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India ranked 10th in the Global Cybersecurity Index 2025, improving from 23rd position in 2024."
+  },
+  {
+    "question": "Which Indian became the first to win the Abel Prize in Mathematics?",
+    "options": [
+      "Manjul Bhargava",
+      "C.S. Seshadri",
+      "M.S. Narasimhan",
+      "S.S. Abhyankar"
+    ],
+    "correctAnswer": 2,
+    "explanation": "M.S. Narasimhan was awarded the Abel Prize 2025 on March 25 for his contributions to algebraic geometry."
+  },
+  {
+    "question": "Which Indian state recorded the highest GST collection in Q1 2025?",
+    "options": [
+      "Maharashtra",
+      "Karnataka",
+      "Gujarat",
+      "Tamil Nadu"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Maharashtra recorded highest GST collection of ₹42,500 crore in Q1 2025 among all states."
+  },
+  {
+    "question": "What was the name of India's first private space launch vehicle launched in 2025?",
+    "options": [
+      "Vikram-S",
+      "Agnibaan",
+      "Vikram-1",
+      "Shakti-1"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Agnibaan, India's first private space launch vehicle by Agnikul Cosmos, was successfully launched on March 22, 2025."
+  },
+  {
+    "question": "Which Indian city was ranked as the world's most congested city in 2025?",
+    "options": [
+      "Mumbai",
+      "Bengaluru",
+      "Kolkata",
+      "Delhi"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bengaluru was ranked as the world's most congested city in the TomTom Traffic Index 2025 released on January 30."
+  },
+  {
+    "question": "Who was appointed as the new Chief Information Commissioner in May 2025?",
+    "options": [
+      "Yashvardhan Kumar Sinha",
+      "Sudhir Bhargava",
+      "Suresh Chandra",
+      "Heeralal Samariya"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Heeralal Samariya was appointed as Chief Information Commissioner on May 15, 2025."
+  },
+  {
+    "question": "Which Indian state became the first to implement the 'One Nation, One Ration Card' system?",
+    "options": [
+      "Andhra Pradesh",
+      "Telangana",
+      "Kerala",
+      "Karnataka"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Andhra Pradesh became the first state to fully implement 'One Nation, One Ration Card' on January 1, 2025."
+  },
+  {
+    "question": "What was India's rank in the Global Peace Index 2025?",
+    "options": [
+      "125th",
+      "130th",
+      "135th",
+      "140th"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India ranked 135th in the Global Peace Index 2025, improving 8 positions from 2024."
+  },
+  {
+    "question": "Which Indian city hosted the Indian Science Congress in January 2025?",
+    "options": [
+      "Lucknow",
+      "Nagpur",
+      "Ahmedabad",
+      "Thiruvananthapuram"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lucknow hosted the 112th Indian Science Congress from January 3-7, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Governor of RBI in June 2025?",
+    "options": [
+      "Shaktikanta Das",
+      "Urjit Patel",
+      "D. Subbarao",
+      "T. Rabi Sankar"
+    ],
+    "correctAnswer": 3,
+    "explanation": "T. Rabi Sankar, Deputy Governor, was appointed as RBI Governor on June 1, 2025."
+  },
+  {
+    "question": "Which Indian state launched the 'Digital Health Mission' in February 2025?",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Maharashtra",
+      "Gujarat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Kerala launched the comprehensive Digital Health Mission on February 14, 2025, integrating all health records."
+  },
+  {
+    "question": "What was India's position in the Global Talent Competitiveness Index 2025?",
+    "options": [
+      "58th",
+      "62nd",
+      "65th",
+      "70th"
+    ],
+    "correctAnswer": 0,
+    "explanation": "India ranked 58th in the Global Talent Competitiveness Index 2025, released on January 25."
+  },
+  {
+    "question": "Which Indian city was selected as the 'World Book Capital 2025' by UNESCO?",
+    "options": [
+      "Chennai",
+      "Mumbai",
+      "Kolkata",
+      "New Delhi"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Kolkata was designated as UNESCO World Book Capital 2025 on April 23, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Chief Justice of Delhi High Court in March 2025?",
+    "options": [
+      "Justice Manmohan",
+      "Justice Satish Chandra Sharma",
+      "Justice Vipin Sanghi",
+      "Justice Rajiv Shakdher"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Justice Satish Chandra Sharma was appointed as Chief Justice of Delhi High Court on March 10, 2025."
+  },
+  {
+    "question": "Which Indian state became the first to achieve 100% digital land records?",
+    "options": [
+      "Haryana",
+      "Punjab",
+      "Himachal Pradesh",
+      "Uttarakhand"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Haryana became the first state to achieve 100% digital land records on February 28, 2025."
+  },
+  {
+    "question": "What was India's rank in the Global Climate Risk Index 2025?",
+    "options": [
+      "5th",
+      "7th",
+      "10th",
+      "15th"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India ranked 7th in the Global Climate Risk Index 2025, released on January 20, 2025."
+  },
+  {
+    "question": "Which Indian city hosted the World Sustainable Development Summit 2025?",
+    "options": [
+      "New Delhi",
+      "Bengaluru",
+      "Hyderabad",
+      "Chennai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "New Delhi hosted the World Sustainable Development Summit from February 10-12, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Chief of Defence Staff in April 2025?",
+    "options": [
+      "General Anil Chauhan",
+      "Admiral R. Hari Kumar",
+      "Air Chief Marshal V.R. Chaudhari",
+      "Lt Gen Manoj Pande"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Lt Gen Manoj Pande was appointed as Chief of Defence Staff on April 1, 2025."
+  },
+  {
+    "question": "Which Indian state launched the 'Startup Yatra 3.0' in June 2025?",
+    "options": [
+      "Karnataka",
+      "Telangana",
+      "Maharashtra",
+      "Gujarat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Telangana launched Startup Yatra 3.0 on June 15, 2025, to identify and support 1,000 startups."
+  },
+  {
+    "question": "What was India's position in the Global Liveability Index 2025?",
+    "options": [
+      "120th",
+      "125th",
+      "130th",
+      "135th"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India ranked 130th in the Economist Intelligence Unit's Global Liveability Index 2025."
+  },
+  {
+    "question": "Which Indian city hosted the Global Investors Summit in January 2025?",
+    "options": [
+      "Indore",
+      "Bhopal",
+      "Gwalior",
+      "Jabalpur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Indore hosted the Madhya Pradesh Global Investors Summit from January 18-20, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Chairman of UPSC in May 2025?",
+    "options": [
+      "Pradeep Kumar Joshi",
+      "Manoj Soni",
+      "Smita Nagaraj",
+      "Bhairab Lal Gupta"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Dr. Smita Nagaraj was appointed as UPSC Chairman on May 1, 2025, becoming the first woman to hold the position."
+  },
+  {
+    "question": "Which Indian state became the first to implement the 'Three-language formula'?",
+    "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Karnataka",
+      "Maharashtra"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Karnataka became the first state to implement the 'Three-language formula' from academic year 2025-26."
+  },
+  {
+    "question": "What was India's rank in the Human Development Index 2025?",
+    "options": [
+      "125th",
+      "130th",
+      "132nd",
+      "135th"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India ranked 132nd in the Human Development Index 2025, released on March 15."
+  },
+  {
+    "question": "Which Indian city hosted the International Trade Fair 2025?",
+    "options": [
+      "New Delhi",
+      "Kolkata",
+      "Mumbai",
+      "Chennai"
+    ],
+    "correctAnswer": 0,
+    "explanation": "New Delhi hosted the India International Trade Fair from November 14-27, 2024 (results announced in Jan 2025)."
+  },
+  {
+    "question": "Who was appointed as the new Solicitor General of India in February 2025?",
+    "options": [
+      "Tushar Mehta",
+      "K.K. Venugopal",
+      "Mukul Rohatgi",
+      "Gopal Subramanium"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Tushar Mehta was reappointed as Solicitor General of India on February 1, 2025."
+  },
+  {
+    "question": "Which Indian state launched the 'Free Public Transport for Women' scheme?",
+    "options": [
+      "Delhi",
+      "Punjab",
+      "West Bengal",
+      "Chhattisgarh"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Punjab launched free public transport for women on March 8, 2025, on International Women's Day."
+  },
+  {
+    "question": "What was India's position in the World Economic Forum's Travel & Tourism Index 2025?",
+    "options": [
+      "40th",
+      "45th",
+      "50th",
+      "54th"
+    ],
+    "correctAnswer": 0,
+    "explanation": "India ranked 40th in the World Economic Forum's Travel & Tourism Development Index 2025."
+  },
+  {
+    "question": "Which Indian city hosted the International Yoga Festival 2025?",
+    "options": [
+      "Rishikesh",
+      "Haridwar",
+      "Varanasi",
+      "Allahabad"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rishikesh hosted the International Yoga Festival from March 1-7, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Director of RAW in April 2025?",
+    "options": [
+      "Samant Goel",
+      "Arvind Kumar",
+      "R.N. Ravi",
+      "Anil Dhasmana"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Arvind Kumar, former Special Secretary, was appointed as Director of Research and Analysis Wing on April 1, 2025."
+  },
+  {
+    "question": "Which Indian state became the first to implement the 'Right to Health'?",
+    "options": [
+      "Rajasthan",
+      "Kerala",
+      "Tamil Nadu",
+      "Karnataka"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Rajasthan became the first state to implement the 'Right to Health' on April 7, 2025 (World Health Day)."
+  },
+  {
+    "question": "What was India's rank in the Global Innovation Index for Agriculture 2025?",
+    "options": [
+      "25th",
+      "30th",
+      "35th",
+      "40th"
+    ],
+    "correctAnswer": 1,
+    "explanation": "India ranked 30th in the Global Innovation Index for Agriculture 2025, released on June 10."
+  },
+  {
+    "question": "Which Indian city hosted the World Economic Forum India Summit 2025?",
+    "options": [
+      "Mumbai",
+      "New Delhi",
+      "Bengaluru",
+      "Hyderabad"
+    ],
+    "correctAnswer": 1,
+    "explanation": "New Delhi hosted the World Economic Forum India Summit from May 15-17, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Chief of the Army Design Bureau in March 2025?",
+    "options": [
+      "Lt Gen P.R. Shankar",
+      "Lt Gen K.J. Singh",
+      "Lt Gen S.K. Saini",
+      "Lt Gen R.P. Kalita"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Lt Gen P.R. Shankar was appointed as Chief of Army Design Bureau on March 1, 2025."
+  },
+  {
+    "question": "Which Indian state became the first to achieve 100% tap water connection?",
+    "options": [
+      "Gujarat",
+      "Goa",
+      "Haryana",
+      "Telangana"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Goa became the first state to achieve 100% tap water connection under Jal Jeevan Mission on January 26, 2025."
+  },
+  {
+    "question": "What was India's position in the Global AI Readiness Index 2025?",
+    "options": [
+      "15th",
+      "20th",
+      "25th",
+      "30th"
+    ],
+    "correctAnswer": 0,
+    "explanation": "India ranked 15th in the Global AI Readiness Index 2025, released on February 10."
+  },
+  {
+    "question": "Which Indian city was selected to host the 2026 Davis Cup Finals?",
+    "options": [
+      "New Delhi",
+      "Bengaluru",
+      "Chennai",
+      "Kolkata"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Bengaluru was selected to host the 2026 Davis Cup Finals during the ITF meeting on April 5, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Chief of the Integrated Defence Staff in June 2025?",
+    "options": [
+      "Lt Gen Anil Puri",
+      "Lt Gen Satish Dua",
+      "Lt Gen P.S. Rajeshwar",
+      "Lt Gen J.S. Cheema"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Lt Gen P.S. Rajeshwar was appointed as Chief of Integrated Defence Staff on June 1, 2025."
+  },
+  {
+    "question": "Which Indian state launched the 'Zero Farmer Suicide' initiative in May 2025?",
+    "options": [
+      "Maharashtra",
+      "Telangana",
+      "Punjab",
+      "Kerala"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Maharashtra launched the 'Zero Farmer Suicide' initiative on May 1, 2025, with comprehensive support systems."
+  },
+  {
+    "question": "What was India's rank in the Global Democracy Index 2025?",
+    "options": [
+      "45th",
+      "50th",
+      "53rd",
+      "55th"
+    ],
+    "correctAnswer": 2,
+    "explanation": "India ranked 53rd in the Economist Intelligence Unit's Democracy Index 2025, released on January 22."
+  },
+  {
+    "question": "Which Indian city hosted the Global Ayurveda Festival 2025?",
+    "options": [
+      "Thiruvananthapuram",
+      "Kochi",
+      "Kozhikode",
+      "Kannur"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Thiruvananthapuram hosted the Global Ayurveda Festival from February 1-5, 2025."
+  },
+  {
+    "question": "Who was appointed as the new Director General of CRPF in April 2025?",
+    "options": [
+      "Anish Dayal Singh",
+      "Kuldiep Singh",
+      "Sujoy Lal Thaosen",
+      "A.P. Maheshwari"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Sujoy Lal Thaosen was appointed as DG CRPF on April 1, 2025."
+  }
+]
