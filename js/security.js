@@ -93,7 +93,8 @@ class SecurityManager {
             'questions/current_affairs.json',
             'questions/domain1.json',
             'questions/domain2.json',
-            'questions/domain3.json'
+            'questions/domain3.json',
+            'questions/gaca.json'
         ];
     }
 
